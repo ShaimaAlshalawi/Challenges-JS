@@ -1,1 +1,1 @@
-# Challenges-Coderhub-JS
+# Challenges-JS
